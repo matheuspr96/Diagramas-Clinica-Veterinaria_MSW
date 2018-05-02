@@ -1,13 +1,5 @@
 Falta:
-        -Triagem(Emergência)
-                *Venda
-                *Cirurgia
-                *Observação(tipo UTI)
         -Pagamento (Amarrado à venda e consulta)
                 *Dinheiro, 
                 *cheque, 
-                *cartão, ect
-                
-        -Cadastro (Proprietário, animal, carteira de vacinação)
-
-Contexto: Falar com alguem do petshop
+                *cartão, etc
