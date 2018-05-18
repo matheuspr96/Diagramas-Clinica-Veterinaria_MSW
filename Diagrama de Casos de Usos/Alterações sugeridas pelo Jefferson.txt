@@ -1,5 +1,0 @@
-Falta:
-        -Pagamento (Amarrado à venda e consulta)
-                *Dinheiro, 
-                *cheque, 
-                *cartão, etc
